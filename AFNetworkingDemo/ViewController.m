@@ -181,6 +181,9 @@
         default:
             break;
     }
+    
+//    开始检测
+    [manager startMonitoring];
 }
 
 
